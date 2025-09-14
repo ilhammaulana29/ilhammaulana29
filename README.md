@@ -1,7 +1,7 @@
 # Hallo Everyone
 
 Perkenalkan nama saya **Ilham Maulana**.\
-Saya seorang **Junior Web Developer** dan saya juga seorang **Mahasiswa**.
+Saya seorang **Full Stack Developer** dan saya juga seorang **IT Support**.
 
 <p align="left">
 <a href="https://github.com/ilhammaulana29">
